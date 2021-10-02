@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/kafka-learning
+/kafka-learning.consumer/.confluent
+/kafka-learning.consumer/bin/Debug/net5.0
+/kafka-learning.consumer/obj
+/kafka-learning.producer/.confluent
+/kafka-learning.producer/bin/Debug/net5.0
+/kafka-learning.producer/obj

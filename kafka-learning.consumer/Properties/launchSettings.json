@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "kafka-learning.consumer": {
+      "commandName": "Project",
+      "commandLineArgs": "test1"
+    }
+  }
+}
